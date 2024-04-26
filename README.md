@@ -7,6 +7,8 @@ This project aims to predict the recurrence of thyroid cancer using machine lear
 - **Eitan Cohen** - [GitHub](https://github.com/CEitanC) - Email: ceitan001@gmail.com
 - **Hadar Pinto** - [GitHub](https://github.com/hadarpinto) - Email: hadarpinto@gmail.com
 
+## Data Source
+https://www.kaggle.com/datasets/joebeachcapital/differentiated-thyroid-cancer-recurrence/
 
 ## Installation
 
